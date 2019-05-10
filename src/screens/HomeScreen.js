@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-import Bookings from './features/bookings/Bookings';
+import Bookings from '../features/bookings/Bookings';
 
 
 export default class HomeScreen extends Component {
