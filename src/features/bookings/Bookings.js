@@ -1,5 +1,8 @@
 import React, { Component } from 'react';
-import { View, Text, Button, FlatList } from 'react-native';
+import View from 'react-native-web/dist/exports/View';
+import Text from 'react-native-web/dist/exports/Text';
+import Button from 'react-native-web/dist/exports/Button';
+import FlatList from 'react-native-web/dist/exports/FlatList';
 
 import Slots from './Slots';
 

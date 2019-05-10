@@ -1,5 +1,7 @@
 import React from 'react';
-import {Text, FlatList, View} from 'react-native';
+import View from 'react-native-web/dist/exports/View';
+import Text from 'react-native-web/dist/exports/Text';
+import FlatList from 'react-native-web/dist/exports/FlatList';
 
 const _slots = [
     {
